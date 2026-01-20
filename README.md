@@ -230,14 +230,17 @@ sections.forEach((section) => observer.observe(section));
 
 ## 📸 Screenshots
 
-> **Note**: Add screenshots of your portfolio sections here
+<!-- > **Note**: Add screenshots of your portfolio sections here -->
 
 ### Desktop View
-![Home Section](images/screenshot-home.png)
-![Skills Section](images/screenshot-skills.png)
+![Home Section](images/Desktop-Screenshot.png)
+![About Section](images/Desktop-Screenshot-2.png)
+![Services Section](images/Desktop-Screenshot-3.png)
+![Skills Section](images/Desktop-Screenshot-4.png)
 
 ### Mobile View
-![Mobile Navigation](images/screenshot-mobile.png)
+![Mobile Home Section](images/Mobile-Screenshot.png)
+![Mobile Skills Section](images/Mobile-Screenshot-2.png)
 
 ---
 
