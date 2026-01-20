@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Tech Undertake Logo](images/Tech%20Undertak%20Logo.png)
+<!-- ![Tech Undertake Logo](images/Tech%20Undertak%20Logo.png) -->
 
 **A modern, responsive portfolio website showcasing web development expertise and creative projects.**
 
